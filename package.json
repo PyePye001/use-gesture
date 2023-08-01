@@ -107,7 +107,7 @@
     "jest": "^27.0.4",
     "jest-chain": "^1.1.5",
     "patch-package": "^6.4.7",
-    "pnpm": "^6.7.6",
+    "pnpm": "^7.33.4",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^2.3.0",
     "pretty-quick": "^3.1.1",
